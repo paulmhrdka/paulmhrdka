@@ -6,6 +6,6 @@ You can see my Projects on my [Github](https://github.com/PMSP31) or my personal
 
 I'm currently learning ReactJS library.
 
-Contact : Email, [Twitter](https://twitter.com/paul_mahardika), or [Instagram](https://instagram.com/paul_mhrdka).
+Contact : [Email](mailto:mahardikapaul@gmail.com), [Twitter](https://twitter.com/paul_mahardika), or [Instagram](https://instagram.com/paul_mhrdka).
 
 Thanks :thumbsup:.
