@@ -1,6 +1,6 @@
-Hello 👋:, It's **Paul Mahardika** Github 🎉 🎉:.
+Hello 👋, It's **Paul Mahardika** Github 🎉 🎉.
 
-I'm From Indonesia 🇮🇩: 
+I'm From Indonesia 🇮🇩
 
 I'm Front End Developer and Trying to be FullStack Javascript Developer.
 
