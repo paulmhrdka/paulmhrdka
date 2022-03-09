@@ -2,8 +2,6 @@ Hello 👋, It's **Paul Mahardika** Github 🎉 🎉.
 
 I'm From Indonesia 🇮🇩
 
-I'm Front End Developer and Trying to be FullStack Javascript Developer.
-
 I am good at using :
 
 * HTML
