@@ -16,7 +16,7 @@ I am good at using :
 
 You can see my Projects on my [Github](https://github.com/PMSP31) or my personal website [Paul Mahardika Site](https://paul-projects.netlify.app).
 
-I'm currently learning NodeJS and MongoDB.
+I'm currently learning Python.
 
 Contact : 
 * [Email](mailto:mahardikapaul@gmail.com) 
