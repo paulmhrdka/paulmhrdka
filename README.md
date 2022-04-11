@@ -12,9 +12,9 @@ I am good at using :
 * SASS
 * ReactJS
 
-You can see my Projects on my [Github](https://github.com/PMSP31) or my personal website [Paul Mahardika Site](https://paul-projects.netlify.app).
+You can see my Projects on my [Github](https://github.com/PMSP31) or my personal website [Paul Mahardika Site](https://paulmahardika.me).
 
-I'm currently learning Python.
+I'm currently learning Python & Django.
 
 Contact : 
 * [Email](mailto:mahardikapaul@gmail.com) 
