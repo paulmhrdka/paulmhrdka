@@ -6,7 +6,7 @@
 
 ## I am Student and Programmer !!
 
-- I'm currently learning Python & Django :seedling:
+- I'm currently learning Backend with NodeJS :seedling:
 - My 2022 Goals : Become FullStack Junior Programmer :sunglasses:
 - Fun fact : I like to play drum / guitar :musical_note:
 
