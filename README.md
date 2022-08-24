@@ -46,4 +46,4 @@
 
 ## Github Stats :bar_chart:
 
-![PMSP31 Github stats](https://github-readme-stats.vercel.app/api?username=PMSP31&show_icons=true&theme=tokyonight)
+![paulmhrdka Github stats](https://github-readme-stats.vercel.app/api?username=paulmhrdka&show_icons=true&theme=tokyonight)
