@@ -5,8 +5,6 @@
 ## I am Backend Programmer !!
 
 - I'm currently learning Golang :seedling:
-- My 2022 Goals : Become Professional Backend Programmer :sunglasses:
-- Fun fact : I like to play drum / guitar :musical_note:
 
 ## Programming Languages & Tools
 
