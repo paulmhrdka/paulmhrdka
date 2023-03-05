@@ -2,10 +2,6 @@
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=none&label=Website%20%3A&style=for-the-badge&up_color=lightblue&up_message=paulmahardika.me&url=http%3A%2F%2Fpaulmahardika.me%2F)](http://paulmahardika.me/)
 
-## I am Backend Programmer !!
-
-- I'm currently learning Golang :seedling:
-
 ## Programming Languages & Tools
 
 <img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width='30px' style='padding-right: 10px;' />
