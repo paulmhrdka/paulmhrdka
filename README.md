@@ -24,11 +24,8 @@
 
 ## Connect With Me :
 
-[![website](./assets/img/globe-light.svg)](http://paulmahardika.me/#gh-light-mode-only)
-[![website](./assets/img/globe-dark.svg)](http://paulmahardika.me/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./assets/img/twitter-light.svg)](https://twitter.com/paul_mahardika#gh-light-mode-only)
-[![website](./assets/img/twitter-dark.svg)](https://twitter.com/paul_mahardika#gh-dark-mode-only)
+[![website](./assets/img/globe-light.svg)](https://paulmahardika.vercel.app//#gh-light-mode-only)
+[![website](./assets/img/globe-dark.svg)](https://paulmahardika.vercel.app//#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./assets/img/instagram-light.svg)](https://instagram.com/paul_mhrdka#gh-light-mode-only)
 [![website](./assets/img/instagram-dark.svg)](https://instagram.com/paul_mhrdka#gh-dark-mode-only)
